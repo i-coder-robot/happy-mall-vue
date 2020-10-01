@@ -1,5 +1,8 @@
 # happy-mall-vue
 
+# 视频地址 
+https://www.bilibili.com/video/BV1T54y1y7SL/
+
 ## Project setup
 ```
 yarn install
@@ -14,6 +17,3 @@ yarn serve
 ```
 yarn build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
